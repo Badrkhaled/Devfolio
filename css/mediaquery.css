@@ -1,0 +1,66 @@
+@media (max-width: 2000px){
+
+    .col-md-4 {
+        flex: 0 0 auto;
+        width: 32.33%;
+    }
+   
+
+}
+@media (max-width: 1020px){
+
+    .col-md-4 {
+        flex: 0 0 auto;
+        width: 50%;
+    }
+    
+    
+    .contact{
+        margin-top: 0px;
+        height: 1050px;
+        
+        .getintouch{
+            height: 20px;
+        }
+    }
+    footer{
+        margin-top:px ;
+    }
+    
+  
+}
+@media (max-width: 625px){
+    #home h2{
+        font-size: 35px;
+        text-align: center;
+    }
+    #home h3{
+        font-size: 5px;
+        text-align: center;
+    }
+    .col-md-4 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+    .numbers{
+        height: 800px;
+    }
+    
+}
+@media screen and (min-width:768px) {
+    
+    .w-50{
+        width: 10%;
+
+    }
+    
+}
+@media screen and (min-width:225px) {
+    
+    .bg-sm-image{
+        background-repeat: no-repeat;
+        background-position: right;
+        background-position: center center;
+    }
+    
+}
